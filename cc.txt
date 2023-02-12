@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 lknldnnefnkebnkjbflkjbskbjkbcvd,knfkln knednknnn
+=======
+lknldnnefnkebnkjbfld,knfkln knednknnn
+
+lkmdflnfdkn
+>>>>>>> 042362e3e560005ca71d6717adf8354b508e1e86
